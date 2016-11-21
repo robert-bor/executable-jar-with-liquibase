@@ -1,1 +1,1 @@
-Demonstration project for http://stackoverflow.com/questions/40727625/autoconfigurebefore-does-not-trigger
+Demonstration project for http://stackoverflow.com/questions/40729071/executable-jar-unable-to-find-liquibase-db-changelog-xml
