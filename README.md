@@ -1,2 +1,1 @@
-# executable-jar-with-liquibase
-Demonstration project for a JAR packaged Spring Boot and how it is unable to find its liquibase changesets
+Demonstration project for http://stackoverflow.com/questions/40727625/autoconfigurebefore-does-not-trigger
